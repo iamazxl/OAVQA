@@ -1,2 +1,2 @@
-# CICAI2023-OAVQA
+# OAVQA
 readme
