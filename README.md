@@ -13,4 +13,4 @@ This is the official repo of the paper [Perceptual Quality Assessment of Omnidir
 
 The constructed OAVQA database can be accessed using the links below.
 
-- Download OAVQA database: [[百度网盘](https://pan.baidu.com/s/15vLh0mZ7BNlGfF5jYExyGw ) Extraction code: dzby]
+- Download OAVQA database: [[百度网盘](https://pan.baidu.com/s/15vLh0mZ7BNlGfF5jYExyGw )] Extraction code: dzby
